@@ -3,7 +3,7 @@
 ##Project Overview
 Analysed 149,116 transactions from a coffee shop chain across 3 new york locations (jan-jun 2023) using microsoft excel
 
-##Tools used 
+#Tools used 
 -  Microsoft Excel
 - Pivot Tables
 - VLOOKUP, HOUR, TEXT functions
